@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on [mamrzeczy.pl - darmowe ogłoszenia](https://mamrzeczy.pl).
 <br>🌱 I’m currently learning Angular, Docker, RXJS, Typescript.<br>
-📫 How to reach me: [mamrzeczy.pl - darmowe ogłoszenia](https://mamrzeczy.pl/contact).
+📫 How to reach me: [mamrzeczy.pl - kontakt](https://mamrzeczy.pl/contact).
 <!--
 **PatrycjaKa92/PatrycjaKa92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
